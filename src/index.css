@@ -146,7 +146,7 @@ All colors MUST be HSL.
 
   /* Product Card Hover Effects */
   .product-card {
-    @apply relative overflow-hidden group cursor-pointer transition-[var(--transition-smooth)] hover:shadow-[var(--shadow-hover)];
+    @apply relative overflow-hidden cursor-pointer transition-[var(--transition-smooth)] hover:shadow-[var(--shadow-hover)];
   }
   
   .product-image {

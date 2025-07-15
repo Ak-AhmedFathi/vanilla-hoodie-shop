@@ -126,7 +126,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, onAddToCart, onAddTo
   return (
     <div 
       ref={cardRef}
-      className="product-card bg-card rounded-none overflow-hidden shadow-[var(--shadow-card)]"
+      className="product-card group bg-card rounded-none overflow-hidden shadow-[var(--shadow-card)]"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
