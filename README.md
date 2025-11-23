@@ -80,3 +80,9 @@ Check it live: [Vanilla Hoodie Shop](https://vanilla-hoodie-shop.vercel.app)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-fathi-in/  
 - 🌐 **Portfolio:** https://ahmedfathi.com  
 - 📧 **Email:** info@ahmedfathi.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share.
