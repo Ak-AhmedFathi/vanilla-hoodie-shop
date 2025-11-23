@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# Vanilla Hoodie Shop 🛍️
 
-## Project info
+> A modern e-commerce store built with **React**, **Vite**, **TypeScript**, **shadcn-ui**, and **Tailwind CSS**.  
+> Fully responsive with smooth UI animations and clean design.
 
-**URL**: https://lovable.dev/projects/08617add-cd4b-4fbe-b269-8aa0d60be9a1
+---
 
-## How can I edit this code?
+## 🌟 Features
+- Browse hoodies by category
+- Add items to cart and manage cart
+- Smooth animations with **shadcn-ui**
+- Fully responsive layout
+- Optimized performance with Vite
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🛠 Tech Stack
+- **Frontend:** React, TypeScript, Vite  
+- **UI Library:** shadcn-ui  
+- **Styling:** Tailwind CSS  
+- **Deployment:** Vercel
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/08617add-cd4b-4fbe-b269-8aa0d60be9a1) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🔗 Live Demo
+Check it live: [Vanilla Hoodie Shop](https://vanilla-hoodie-shop.vercel.app)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ⚙ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ak-AhmedFathi/vanilla-hoodie-shop.git
+   ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+2. Navigate to the project directory:
+   ```bash
+   cd vanilla-hoodie-shop
+   ```
 
-Follow these steps:
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+5. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 📦 Folder Structure
+```
+/public       - Static assets
+/src          - Source code
+  /components - Reusable UI components
+  /pages      - App pages
+  /styles     - Tailwind & global styles
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ✅ Badges
+![GitHub Repo stars](https://img.shields.io/github/stars/Ak-AhmedFathi/vanilla-hoodie-shop?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Ak-AhmedFathi/vanilla-hoodie-shop?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Ak-AhmedFathi/vanilla-hoodie-shop?style=for-the-badge)
+![Vercel Deployment](https://img.shields.io/badge/deployed%20on-vercel-blue?style=for-the-badge)
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📚 Topics
+`react` `vite` `typescript` `tailwindcss` `shadcn-ui` `ecommerce` `ui` `animations`
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/08617add-cd4b-4fbe-b269-8aa0d60be9a1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 💌 Contact
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- Email: your.email@example.com
