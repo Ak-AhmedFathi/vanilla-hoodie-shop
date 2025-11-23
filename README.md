@@ -77,6 +77,6 @@ Check it live: [Vanilla Hoodie Shop](https://vanilla-hoodie-shop.vercel.app)
 ---
 
 ## 💌 Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-- Email: your.email@example.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-fathi-in/  
+- 🌐 **Portfolio:** https://ahmedfathi.com  
+- 📧 **Email:** info@ahmedfathi.com
