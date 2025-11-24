@@ -1,5 +1,11 @@
 # Vanilla Hoodie Shop 🛍️
 
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 > A modern e-commerce store built with **React**, **Vite**, **TypeScript**, **shadcn-ui**, and **Tailwind CSS**.  
 > Fully responsive with smooth UI animations and clean design.
 
